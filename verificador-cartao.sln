@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verificador-cartao", "verificador-cartao\verificador-cartao.csproj", "{0E3A4E27-E2E9-4EDD-BE3F-A9121F012BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3A4E27-E2E9-4EDD-BE3F-A9121F012BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3A4E27-E2E9-4EDD-BE3F-A9121F012BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3A4E27-E2E9-4EDD-BE3F-A9121F012BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3A4E27-E2E9-4EDD-BE3F-A9121F012BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57DBB12D-7D64-4F23-A53F-97788B319E3C}
+	EndGlobalSection
+EndGlobal
